@@ -1,0 +1,292 @@
+MATCH_SCORE,ID_1,NAME_1,HOSTNAME_1,NEIGHB_1,LATITUDE_1,LONGITUDE_1,ROOM_TYPE_1,ID_2,NAME_2,HOSTNAME_2,NEIGHB_2,LATITUDE_2,LONGITUDE_2,ROOM_TYPE_2
+100,675675,Angolo Romano b&b Vaticano M.Cipro,Gianfranco,I Centro Storico,4190909,1244512,Private room,268618,angolo romano b&b Vaticano M.Cipro,Gianfranco,I Centro Storico,4190938,1244607,Private room
+100,677599,Angolo Romano b&b Vaticano M.Cipro,Gianfranco,I Centro Storico,4190905,1244511,Private room,268618,angolo romano b&b Vaticano M.Cipro,Gianfranco,I Centro Storico,4190938,1244607,Private room
+100,677815,Angolo Romano b&b Vaticano M.Cipro,Gianfranco,I Centro Storico,419079,124444,Private room,268618,angolo romano b&b Vaticano M.Cipro,Gianfranco,I Centro Storico,4190938,1244607,Private room
+100,354949,Private room w/bathroom Rainbow b&b,Michela,I Centro Storico,4190981,1245758,Entire home/apt,316438,Private room w/bathroom Rainbow b&b,Michela,I Centro Storico,4191024,1245733,Entire home/apt
+100,711057,Gelsomina room in S.Pietro Double,Mattia,I Centro Storico,419063,1245823,Private room,339909,Gelsomina room in S.Pietro double,Mattia,I Centro Storico,4190767,1245706,Private room
+100,552958,Romahouse Vatican View Apartment 11,Daniela,XIII Aurelia,4189642,1244813,Entire home/apt,400179,Romahouse Vatican View Apartment 11,Daniela,XIII Aurelia,4189636,1244932,Entire home/apt
+100,678572,Bright rooms in the heart of Rome,Davide,VIII Appia Antica,418536,1247476,Private room,621975,Bright room in the heart of Rome,Davide,VIII Appia Antica,4185502,1247387,Private room
+100,678599,Bright rooms in the heart of Rome,Davide,VIII Appia Antica,4185421,1247472,Private room,621975,Bright room in the heart of Rome,Davide,VIII Appia Antica,4185502,1247387,Private room
+100,677599,Angolo Romano b&b Vaticano M.Cipro,Gianfranco,I Centro Storico,4190905,1244511,Private room,675675,Angolo Romano b&b Vaticano M.Cipro,Gianfranco,I Centro Storico,4190909,1244512,Private room
+100,677815,Angolo Romano b&b Vaticano M.Cipro,Gianfranco,I Centro Storico,419079,124444,Private room,675675,Angolo Romano b&b Vaticano M.Cipro,Gianfranco,I Centro Storico,4190909,1244512,Private room
+100,677815,Angolo Romano b&b Vaticano M.Cipro,Gianfranco,I Centro Storico,419079,124444,Private room,677599,Angolo Romano b&b Vaticano M.Cipro,Gianfranco,I Centro Storico,4190905,1244511,Private room
+100,678599,Bright rooms in the heart of Rome,Davide,VIII Appia Antica,4185421,1247472,Private room,678572,Bright rooms in the heart of Rome,Davide,VIII Appia Antica,418536,1247476,Private room
+100,1229976,Apartment in Rome on the Lake,Livia,XV Cassia/Flaminia,4211997,1232845,Entire home/apt,1034024,Apartment in Rome on the Lake,Livia,XV Cassia/Flaminia,4212059,123243,Entire home/apt
+100,1230046,Apartment in Rome on the Lake,Livia,XV Cassia/Flaminia,4211906,1232344,Entire home/apt,1034024,Apartment in Rome on the Lake,Livia,XV Cassia/Flaminia,4212059,123243,Entire home/apt
+100,1054438,B&B - Center of Rome - Termini,Francesca,I Centro Storico,4190756,1249816,Private room,1002079,B&B - Center of Rome - Termini,Francesca,I Centro Storico,4190801,1249627,Private room
+100,1054445,B&B - Center of Rome - Termini,Francesca,I Centro Storico,4190788,12497,Private room,1002079,B&B - Center of Rome - Termini,Francesca,I Centro Storico,4190801,1249627,Private room
+100,1054445,B&B - Center of Rome - Termini,Francesca,I Centro Storico,4190788,12497,Private room,1054438,B&B - Center of Rome - Termini,Francesca,I Centro Storico,4190756,1249816,Private room
+100,1286823,Dormitory mixed  (M and F),Romangelo,I Centro Storico,4190017,125022,Shared room,1218665,Dormitory mixed  (M and F),Romangelo,I Centro Storico,4189945,1250229,Shared room
+100,1230046,Apartment in Rome on the Lake,Livia,XV Cassia/Flaminia,4211906,1232344,Entire home/apt,1229976,Apartment in Rome on the Lake,Livia,XV Cassia/Flaminia,4211997,1232845,Entire home/apt
+100,1200376,B&B Le Baruffe,B&B Le Baruffe Paola & Matteo,IX Eur,4175743,124979,Private room,1196630,B&B Le Baruffe,B&B Le Baruffe Paola & Matteo,IX Eur,4175756,1249745,Private room
+100,820984,St Peter-Big apart in front of Dome,Nicola,I Centro Storico,4190571,1245951,Entire home/apt,1325688,St Peter-Big apart in front of Dome,Nicola,I Centro Storico,4190703,1245759,Entire home/apt
+100,1272534,"Central Rome, room with private bathroom",Sabrina  & Roberto,XII Monte Verde,4187384,1246161,Private room,1325870,"Central Rome, room with private bathroom",Sabrina  & Roberto,XII Monte Verde,4187562,1246143,Private room
+100,995864,B&B A Casa di Lia Home in Rome,Lia,II Parioli/Nomentano,4192374,124669,Private room,1480512,B&B A Casa di Lia Home in Rome,Lia,II Parioli/Nomentano,4192495,1246565,Private room
+100,1272534,"Central Rome, room with private bathroom",Sabrina  & Roberto,XII Monte Verde,4187384,1246161,Private room,1719412,"Central Rome, room with private bathroom",Sabrina  & Roberto,XII Monte Verde,4187604,1246185,Private room
+100,1295484,"Central Rome, room on Gianicolo Hill",Sabrina  & Roberto,XII Monte Verde,4187548,1246068,Private room,1722762,"Central Rome, room on Gianicolo Hill",Sabrina  & Roberto,XII Monte Verde,4187381,1246088,Private room
+100,797304,APARTMENT TRASTEVERE 8 people,Manuela,XII Monte Verde,4187931,124675,Entire home/apt,2001397,Apartment Trastevere 8 people,Manuela,XII Monte Verde,4188073,1246606,Entire home/apt
+100,777449,Trastevere 8 bed Apartment,Manuela,XII Monte Verde,4187942,1246635,Entire home/apt,2698885,Trastevere 8 bed Apartment,Manuela,XII Monte Verde,4187901,1246576,Entire home/apt
+100,981164,BIG DOUBLE BEDROOM CLOSE TO METRO A,Marco,XIII Aurelia,4190552,1242324,Private room,2620391,Big double bedroom close to Metro A,Marco,XIII Aurelia,4190278,1241773,Private room
+100,1248421,Colosseo - Independent Apartment with Living Room,Maria Alberta,I Centro Storico,4188687,1249831,Entire home/apt,2855389,Colosseo - Independent Apartment with Living Room,Maria Alberta,I Centro Storico,4188692,1249832,Entire home/apt
+100,683861,Green Apartments Rome N°4,Andrea,I Centro Storico,4188967,1250171,Entire home/apt,5178700,Green Apartments Rome N°3,Andrea,I Centro Storico,4188947,1250106,Entire home/apt
+100,1248421,Colosseo - Independent Apartment with Living Room,Maria Alberta,I Centro Storico,4188687,1249831,Entire home/apt,6507223,Colosseo - Independent Apartment with Living Room,Maria Alberta,I Centro Storico,4188818,1249673,Entire home/apt
+100,990775,YOUR HOME AWAY FROM HOME,Giorgio,V Prenestino/Centocelle,4188895,1252623,Private room,8680346,your home away from home,Giorgio,V Prenestino/Centocelle,4188917,1252611,Private room
+100,683861,Green Apartments Rome N°4,Andrea,I Centro Storico,4188967,1250171,Entire home/apt,4222374,Green Apartments Rome N°2,Andrea,I Centro Storico,4188878,124997,Entire home/apt
+100,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,4610124,Apartment Trastevere,Manuela,XII Monte Verde,418806,1246775,Entire home/apt
+100,930540,Locanda Al Viminale,Riccardo,I Centro Storico,4189922,1249415,Entire home/apt,11898911,locanda al viminale,Riccardo,I Centro Storico,4189958,1249415,Entire home/apt
+100,1164706,Le rose B&B camera matrimoniale,Anna,II Parioli/Nomentano,4192725,1251374,Private room,14438363,Le rose B&B camera matrimoniale,Anna,II Parioli/Nomentano,419261,125135,Private room
+100,1187009,"Domus Appia Antica, 2 bedrooms and terrace",Enrico,VII San Giovanni/Cinecittà,4183481,1259606,Entire home/apt,21847426,"Domus Appia Antica, 2 bedrooms and terrace",Enrico,VII San Giovanni/Cinecittà,4183354,1259602,Entire home/apt
+100,831224,Loft in Rome,Andrea,VI Roma delle Torri,4187328,1259528,Entire home/apt,28206657,Loft in Rome,Andrea,I Centro Storico,41895,1250042,Entire home/apt
+100,1077984,Splendid Modern in Trastevere,Marco,I Centro Storico,4188815,1247064,Entire home/apt,106,Splendid Modern in Trastevere,Marco,I Centro Storico,4188815,1247064,Entire home/apt
+100,1078201,B & B Room at St. John Lateran,Fatinha,VII San Giovanni/Cinecittà,4188023,1250686,Private room,107,B & B Room at St. John Lateran,Fatinha,VII San Giovanni/Cinecittà,4188023,1250686,Private room
+100,1078734,The Palatine Garden Apartment,Maurizio,I Centro Storico,418913,1248315,Entire home/apt,108,The Palatine Garden Apartment,Maurizio,I Centro Storico,418913,1248315,Entire home/apt
+100,1075281,Villa&giardino Appia Antica -FreeParkingArea,Anna,VIII Appia Antica,4183656,1254703,Entire home/apt,105,Villa&giardino Appia Antica -FreeParkingArea,Anna,VIII Appia Antica,4183656,1254703,Entire home/apt
+98,553345,Coloured room in San Giovanni!,Anna Rita,VII San Giovanni/Cinecittà,4187178,1252855,Private room,581753,Coloured room near San Giovanni!,Anna Rita,VII San Giovanni/Cinecittà,4187239,1252815,Private room
+98,797304,APARTMENT TRASTEVERE 8 people,Manuela,XII Monte Verde,4187931,124675,Entire home/apt,710876,Apartment at Trastevere Nievo 8people,Manuela,XII Monte Verde,4188056,1246623,Entire home/apt
+98,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,703644,Apartment Trastevere 3,Manuela,XII Monte Verde,4187964,1246622,Entire home/apt
+98,856744,Campo dè Fiori  - Romantic Terrace,Rent In Rome,I Centro Storico,4189504,1247462,Entire home/apt,561122,Campo dè Fiori Terrace,Rent In Rome,I Centro Storico,4189396,1247498,Entire home/apt
+98,783263,GUEST HOUSE NAVONA2 alloggio turistico autorizzato,Massimo Giuseppe,I Centro Storico,4190129,1247463,Entire home/apt,561231,GUEST HOUSE NAVONA alloggio turistico autorizzato,Massimo Giuseppe,I Centro Storico,4190131,1247322,Entire home/apt
+98,933324,B&B Vaticano/San Pietro Camera doppia/Matrimoniale,Andrea,XIII Aurelia,4189787,1245507,Private room,874822,B&B Vaticano/San Pietro Camera Matrimoniale,Andrea,XIII Aurelia,4190052,1244447,Private room
+98,908444,GIANICOLO SUITE AIRONE B&B,LUIGI And MARIA PIA,XII Monte Verde,418862,1245875,Private room,894714,GIANICOLO SUITE B&B,LUIGI And MARIA PIA,XII Monte Verde,4188598,1245812,Private room
+98,995829,2 be home Colosseo b&b ensuite,Lory,I Centro Storico,4189116,1250236,Private room,995129,2 be home Colosseo b&b,Lory,I Centro Storico,4189127,1250207,Private room
+98,954590,Rome@Home146 Monti MONO Top Choice,Annapiera,I Centro Storico,4189716,1249446,Entire home/apt,944620,Rome@Home146 - Monti Top Choice!!,Annapiera,I Centro Storico,4189698,1249491,Entire home/apt
+98,1136842,Navona Queen rooftop Piazza Navona Rome,Matteo,I Centro Storico,4189912,1246728,Private room,1114163,Navona Queen rooftop  Piazza Navona Roma,Matteo,I Centro Storico,4189939,1246763,Private room
+98,1286735,Dormitory mixed  (M and F)3,Romangelo,I Centro Storico,4189989,1250231,Shared room,1218665,Dormitory mixed  (M and F),Romangelo,I Centro Storico,4189945,1250229,Shared room
+98,1286823,Dormitory mixed  (M and F),Romangelo,I Centro Storico,4190017,125022,Shared room,1286735,Dormitory mixed  (M and F)3,Romangelo,I Centro Storico,4189989,1250231,Shared room
+98,1078734,The Palatine Garden Apartment,Maurizio,I Centro Storico,418913,1248315,Entire home/apt,1663086,The Palatine Garden 2 Apartment,Maurizio,I Centro Storico,418899,1248181,Entire home/apt
+98,987106,View from the Top,Barry,I Centro Storico,4189947,1246624,Entire home/apt,2079134,View from the Top Annex,Barry,I Centro Storico,4189977,1246613,Entire home/apt
+98,896479,Affitto stanza singola,Annalisa,I Centro Storico,419123,1244991,Private room,4834392,Stanza singola,Annalisa,I Centro Storico,419119,1244869,Private room
+98,1218665,Dormitory mixed  (M and F),Romangelo,I Centro Storico,4189945,1250229,Shared room,6286270,Dormitory mixed  (M and F)4,Romangelo,I Centro Storico,419002,1250312,Shared room
+98,1286823,Dormitory mixed  (M and F),Romangelo,I Centro Storico,4190017,125022,Shared room,6286270,Dormitory mixed  (M and F)4,Romangelo,I Centro Storico,419002,1250312,Shared room
+98,1215739,La Dolce Vita,Pierfrancesco,I Centro Storico,4190383,1248701,Entire home/apt,4408563,La Dolce Vita Two,Pierfrancesco,I Centro Storico,4190346,1248695,Entire home/apt
+98,809637,TRASTEVERE 9 apartment,Manuela,XII Monte Verde,4188029,124681,Entire home/apt,4609042,Trastevere 9 bed apartment,Manuela,XII Monte Verde,4187905,124681,Entire home/apt
+98,703644,Apartment Trastevere 3,Manuela,XII Monte Verde,4187964,1246622,Entire home/apt,4610124,Apartment Trastevere,Manuela,XII Monte Verde,418806,1246775,Entire home/apt
+98,962044,Sweet Room#Terrace#Metro B,Luigi,VIII Appia Antica,4185076,1247761,Private room,12596517,Sweet Double Room#Terrace#Metro B,Luigi,VIII Appia Antica,4185251,1247712,Private room
+98,790163,APARTMENT IN VATICAN AREA,Maria,I Centro Storico,4190895,1246439,Entire home/apt,11035051,Cozy apartment - Vatican area,Maria,I Centro Storico,4190631,124577,Entire home/apt
+98,1274186,SUPER CENTRAL APARTMENT 2,Sean,I Centro Storico,418962,1247315,Entire home/apt,11411137,SUPER CENTRAL APARTMENT,Sean,I Centro Storico,4189383,1247343,Entire home/apt
+98,923109,sweethome,Valentina,II Parioli/Nomentano,4191801,1252387,Entire home/apt,14276832,Sweet Home Colosseo,Valentina,I Centro Storico,4188793,1249581,Entire home/apt
+98,1120573,Youth Station Hostel - Rome,Marco,II Parioli/Nomentano,4191486,1252224,Shared room,21875866,Youth Station Hostel,Marco,II Parioli/Nomentano,4191348,1252129,Shared room
+98,834023,Trastevere mattonato heart of rome,Ilaria,I Centro Storico,4189101,1246877,Entire home/apt,18183753,Trastevere Mattonato Heart of Rome 2,Ilaria,I Centro Storico,4188953,1246834,Entire home/apt
+98,1245294,Cheap Room to rent in Rome!,Claudia,III Monte Sacro,4193807,1253572,Private room,19931206,Cheap rooms to rent in Rome/2,Claudia,III Monte Sacro,4193829,1253621,Private room
+98,1019643,Newly restored Spanish Steps area,Giacomo,I Centro Storico,4190802,1247867,Entire home/apt,25887796,Newly restored with terrace in Spanish Steps area,Giacomo,I Centro Storico,4190842,1247904,Entire home/apt
+98,1223667,Green single room in Pigneto Subway C,Nezha,V Prenestino/Centocelle,4188998,1253204,Private room,23125972,Single Room in the  Pigneto Subway C,Nezha,V Prenestino/Centocelle,4189018,1253289,Private room
+98,778087,Tripla,Corrado,I Centro Storico,4189339,1250688,Private room,24017443,Tripla Deluxe,Corrado,I Centro Storico,4189746,1250095,Private room
+98,1234389,House Maximo at Colosseum,Olga,I Centro Storico,418882,1250932,Entire home/apt,27949151,HOUSE MAXIMO AT COLOSSEUM SUITE,Olga,I Centro Storico,4188805,1250724,Entire home/apt
+98,967339,Target Inn Hotel,Target Inn Rome,I Centro Storico,4190291,1249388,Private room,23071758,Suite Target Inn Hotel,Target Inn Rome,I Centro Storico,4190126,1249581,Private room
+98,561736,Room 2 - pvt bathroom near Colosseum,Luca-Paola - B&B In My Place,I Centro Storico,4189247,1251379,Private room,31354921,Room 2 - pvt bathroom - near Colosseum,Paola-Luca B&B In My Place,I Centro Storico,4189351,1251281,Private room
+98,971672,St. Peter - Big and quiet apartment,Nicola,I Centro Storico,4191011,1246043,Entire home/apt,34446400,"St. Peter - Big, quite and comfortable apartment",Nicola,I Centro Storico,4191029,1245509,Entire home/apt
+98,1084807,"St. Peter-Big, quiet & comfortable",Nicola,I Centro Storico,4190857,1245875,Entire home/apt,34446400,"St. Peter - Big, quite and comfortable apartment",Nicola,I Centro Storico,4191029,1245509,Entire home/apt
+97,922212,Domus Diana - guest accomodation,Diana,I Centro Storico,418902,1250118,Private room,359979,Domus Diana,Diana,I Centro Storico,4189373,1250093,Private room
+97,1112762,ROME CENTRE COLOSSEUM **WiFI **,Edo & Melany,I Centro Storico,4189066,1249715,Entire home/apt,576496,ROME CENTRE COLOSSEUM **Wi fi ! ***,Edo & Melany,I Centro Storico,4189073,124953,Entire home/apt
+97,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,648816,APARTMENT TRASTEVERE Nievo B8,Manuela,XII Monte Verde,4187984,1246801,Entire home/apt
+97,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,710876,Apartment at Trastevere Nievo 8people,Manuela,XII Monte Verde,4188056,1246623,Entire home/apt
+97,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,711027,APARTMENT TRASTEVERE NIEVO B2,Manuela,XII Monte Verde,4188073,1246791,Entire home/apt
+97,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,859809,Apartment at Trastevere Nievo B7,Manuela,XII Monte Verde,4188082,1246768,Entire home/apt
+97,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,797304,APARTMENT TRASTEVERE 8 people,Manuela,XII Monte Verde,4187931,124675,Entire home/apt
+97,804631,Cibele B&B - Rome Center Air Room,Emma,I Centro Storico,41895,1249246,Private room,804601,Cibele B&B - Rome Center Earth Room,Emma,I Centro Storico,4189555,124908,Private room
+97,1086384,il fascino di roma,Alessia,VII San Giovanni/Cinecittà,4187261,1252242,Private room,1086364,TURRA BEB IL FASCINO DI ROMA,Alessia,VII San Giovanni/Cinecittà,4187406,1252259,Private room
+97,995760,Nice room with balcony in San Saba,Tiziana,I Centro Storico,4187895,1248363,Private room,1362773,Nice room w/ balcony in San Saba 2,Tiziana,I Centro Storico,4187778,1248345,Private room
+97,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,2001397,Apartment Trastevere 8 people,Manuela,XII Monte Verde,4188073,1246606,Entire home/apt
+97,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,2698955,Apartment 9 beds Trastevere,Manuela,XII Monte Verde,4188038,1246597,Entire home/apt
+97,808450,IN THE HEART OF ROME,Francesca,I Centro Storico,4189553,1247337,Entire home/apt,3778842,The very heart of Rome. Trevi!,Francesca,I Centro Storico,4190066,1248322,Entire home/apt
+97,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,4578711,Apartment at Trastevere Nievo B5,Manuela,XII Monte Verde,4188091,1246736,Entire home/apt
+97,808450,IN THE HEART OF ROME,Francesca,I Centro Storico,4189553,1247337,Entire home/apt,5342976,Feel at home in the heart of Rome,Francesca,I Centro Storico,4190678,1246314,Entire home/apt
+97,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,4609278,Apartment at Trastevere 9 beds,Manuela,XII Monte Verde,4187949,1246776,Entire home/apt
+97,711027,APARTMENT TRASTEVERE NIEVO B2,Manuela,XII Monte Verde,4188073,1246791,Entire home/apt,4610124,Apartment Trastevere,Manuela,XII Monte Verde,418806,1246775,Entire home/apt
+97,859809,Apartment at Trastevere Nievo B7,Manuela,XII Monte Verde,4188082,1246768,Entire home/apt,4610124,Apartment Trastevere,Manuela,XII Monte Verde,418806,1246775,Entire home/apt
+97,797304,APARTMENT TRASTEVERE 8 people,Manuela,XII Monte Verde,4187931,124675,Entire home/apt,4610124,Apartment Trastevere,Manuela,XII Monte Verde,418806,1246775,Entire home/apt
+97,808450,IN THE HEART OF ROME,Francesca,I Centro Storico,4189553,1247337,Entire home/apt,10961012,EXCLUSIVE APARTMENT in the heart of Rome,Francesca,I Centro Storico,4190753,1249614,Entire home/apt
+97,1181365,Coronari center cozy penthouse & amazing terrace,King Edward,I Centro Storico,4190035,1246881,Entire home/apt,18387453,Cozy penthouse & amazing terrace,King Edward,I Centro Storico,4189586,1249211,Entire home/apt
+97,772482,Family room,George,I Centro Storico,4188897,1250734,Private room,16583516,Nice Villa Family Room,George,I Centro Storico,4189074,1251168,Private room
+97,808450,IN THE HEART OF ROME,Francesca,I Centro Storico,4189553,1247337,Entire home/apt,19187386,Nice apartment in the heart of Rome,Francesca,I Centro Storico,4190048,1247021,Entire home/apt
+97,967339,Target Inn Hotel,Target Inn Rome,I Centro Storico,4190291,1249388,Private room,23071653,Quadrupla Deluxe Target Inn Hotel,Target Inn Rome,I Centro Storico,4190273,1249524,Private room
+96,809863,Vacanze Romane 2 Roman Holidays,Freddy,XII Monte Verde,4187494,124457,Entire home/apt,172510,Roman Holidays  Vacanze Romane,Freddy,XII Monte Verde,4187503,1244613,Entire home/apt
+96,733371,ROMANTIC B&B WITH VERANDA 3PX,Bruna,I Centro Storico,4190749,1244381,Private room,726285,ROMANTIC B&B WITH VERANDA 2PX,Bruna,I Centro Storico,4190637,1244347,Private room
+96,837861,Le Casette di Trastevere-Casetta2,Laura,I Centro Storico,4189093,1246646,Entire home/apt,782614,Le Casette di Trastevere-Casetta 1,Laura,I Centro Storico,4189318,1247118,Entire home/apt
+96,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,809637,TRASTEVERE 9 apartment,Manuela,XII Monte Verde,4188029,124681,Entire home/apt
+96,1248307,Rome COLOSSEUM - CENTRAL *wifi**,Edo & Melany,I Centro Storico,4189041,1249581,Entire home/apt,1112762,ROME CENTRE COLOSSEUM **WiFI **,Edo & Melany,I Centro Storico,4189066,1249715,Entire home/apt
+96,928637,Room in the center of rome,Alessandro,XII Monte Verde,4187811,1245896,Private room,8206377,Double room in the center of Rome,Alex,I Centro Storico,419088,124949,Private room
+96,809637,TRASTEVERE 9 apartment,Manuela,XII Monte Verde,4188029,124681,Entire home/apt,4609278,Apartment at Trastevere 9 beds,Manuela,XII Monte Verde,4187949,1246776,Entire home/apt
+96,809637,TRASTEVERE 9 apartment,Manuela,XII Monte Verde,4188029,124681,Entire home/apt,4610124,Apartment Trastevere,Manuela,XII Monte Verde,418806,1246775,Entire home/apt
+96,1008848,Studio Apartment with Balcony I,Sam,XIV Monte Mario,419094,1243471,Entire home/apt,12821694,Studio with Balcony IV,Sam,XIV Monte Mario,419095,1243628,Entire home/apt
+95,92585,DAB,Alessandro,I Centro Storico,4190982,1249248,Private room,101801,DAB/1 - b&b,Alessandro,I Centro Storico,4190977,1249613,Private room
+95,1047661,WellnessInnRome Shortlet 7people,Emanuela,I Centro Storico,4190627,1250126,Entire home/apt,59749,WellnessInnRome ShortLet 11people,Emanuela,I Centro Storico,4190613,125006,Entire home/apt
+95,809637,TRASTEVERE 9 apartment,Manuela,XII Monte Verde,4188029,124681,Entire home/apt,152601,Apartment Trastevere Nievo 9 people,Manuela,XII Monte Verde,4187903,1246764,Entire home/apt
+95,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,152601,Apartment Trastevere Nievo 9 people,Manuela,XII Monte Verde,4187903,1246764,Entire home/apt
+95,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,152709,Trastevere 6 bed apartment,Manuela,XII Monte Verde,418806,1246548,Entire home/apt
+95,552958,Romahouse Vatican View Apartment 11,Daniela,XIII Aurelia,4189642,1244813,Entire home/apt,414211,Romahouse Vatican View Apartment 17,Daniela,XIII Aurelia,4189649,1244822,Entire home/apt
+95,561780,Romahouse Vatican View Apartment 15,Daniela,XIII Aurelia,4189642,1244855,Entire home/apt,414211,Romahouse Vatican View Apartment 17,Daniela,XIII Aurelia,4189649,1244822,Entire home/apt
+95,552958,Romahouse Vatican View Apartment 11,Daniela,XIII Aurelia,4189642,1244813,Entire home/apt,490348,Romahouse Vatican View Apartment 14,Daniela,XIII Aurelia,4189471,1244824,Entire home/apt
+95,561780,Romahouse Vatican View Apartment 15,Daniela,XIII Aurelia,4189642,1244855,Entire home/apt,490348,Romahouse Vatican View Apartment 14,Daniela,XIII Aurelia,4189471,1244824,Entire home/apt
+95,561780,Romahouse Vatican View Apartment 15,Daniela,XIII Aurelia,4189642,1244855,Entire home/apt,400179,Romahouse Vatican View Apartment 11,Daniela,XIII Aurelia,4189636,1244932,Entire home/apt
+95,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,539958,Trastevere 6 bed apartment,Manuela,XII Monte Verde,4187957,1246746,Entire home/apt
+95,561780,Romahouse Vatican View Apartment 15,Daniela,XIII Aurelia,4189642,1244855,Entire home/apt,552958,Romahouse Vatican View Apartment 11,Daniela,XIII Aurelia,4189642,1244813,Entire home/apt
+95,858936,Apartment with 4 rooms,Alessandro,IV Tiburtina,419074,1253884,Entire home/apt,858935,New wonderful 4 rooms apartment !!,Alessandro,IV Tiburtina,4190823,1253958,Entire home/apt
+95,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,777449,Trastevere 8 bed Apartment,Manuela,XII Monte Verde,4187942,1246635,Entire home/apt
+95,988700,Guest House & Pool,Paola,XI Arvalia/Portuense,4182693,1240554,Entire home/apt,897047,Guest House with pool and horses,Maria Paola,III Monte Sacro,4204246,1258556,Entire home/apt
+95,1018446,"Aquarius Inn, Maison de Charme, S2",Rossana,I Centro Storico,4190781,1250143,Private room,1009094,"Aquarius Inn, Maison de Charme, S1",Rossana,I Centro Storico,4190388,1249862,Private room
+95,1024236,"Aquarius Inn, Maison de Charme, S3",Rossana,I Centro Storico,4190738,1249931,Private room,1009094,"Aquarius Inn, Maison de Charme, S1",Rossana,I Centro Storico,4190388,1249862,Private room
+95,1024236,"Aquarius Inn, Maison de Charme, S3",Rossana,I Centro Storico,4190738,1249931,Private room,1018446,"Aquarius Inn, Maison de Charme, S2",Rossana,I Centro Storico,4190781,1250143,Private room
+95,928606,Room in the heart of Rome,Alessandro,XII Monte Verde,4187768,1245929,Private room,928448,Cozy room in the hearth of rome,Alessandro,XII Monte Verde,4187696,1245871,Private room
+95,798038,"Neighbors of Pope Via Aurelia, 79 int3",I Vicini Del Papa,XIII Aurelia,4189984,1245429,Entire home/apt,1583398,The Popes neighbors Aurelia 79 int4,I Vicini Del Papa,XIII Aurelia,4189967,1245457,Entire home/apt
+95,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,2698885,Trastevere 8 bed Apartment,Manuela,XII Monte Verde,4187901,1246576,Entire home/apt
+95,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,4609042,Trastevere 9 bed apartment,Manuela,XII Monte Verde,4187905,124681,Entire home/apt
+95,777449,Trastevere 8 bed Apartment,Manuela,XII Monte Verde,4187942,1246635,Entire home/apt,4610124,Apartment Trastevere,Manuela,XII Monte Verde,418806,1246775,Entire home/apt
+95,693077,"Standard double room, Rome center",Cristobal,I Centro Storico,4190616,1246897,Private room,11662420,DOUBLE ROOM,Cristobal,I Centro Storico,4190533,1246764,Private room
+95,1216126,CASA VACANZE RIPASSO 50 MT VATICANO,Agostino,I Centro Storico,4190759,1246169,Entire home/apt,15442518,Casa Vacanze Ripasso,Agostino,I Centro Storico,4190644,1245904,Entire home/apt
+95,967339,Target Inn Hotel,Target Inn Rome,I Centro Storico,4190291,1249388,Private room,23070707,Doppia/letti singoli Target Inn Hotel,Target Inn Rome,I Centro Storico,4190352,1249354,Private room
+95,967339,Target Inn Hotel,Target Inn Rome,I Centro Storico,4190291,1249388,Private room,23071332,Doppia/letti singoli Target Inn Hotel,Target Inn Rome,I Centro Storico,4190271,1249408,Private room
+95,967339,Target Inn Hotel,Target Inn Rome,I Centro Storico,4190291,1249388,Private room,23071522,Doppia/Letti singoli Target Inn Hotel,Target Inn Rome,I Centro Storico,4190135,1249375,Private room
+95,967339,Target Inn Hotel,Target Inn Rome,I Centro Storico,4190291,1249388,Private room,23071583,Doppia/Letti Singoli Target Inn Hotel,Target Inn Rome,I Centro Storico,4190307,1249372,Private room
+95,1238767,Nice Loft Trastevere with terrace,Fabio,I Centro Storico,4188919,1246684,Entire home/apt,34881550,Trastevere Loft,Fabio,I Centro Storico,4188993,1246953,Entire home/apt
+94,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,679138,Amazing Terrace Apartment 12 people Trastevere,Manuela,XII Monte Verde,4187999,1246721,Entire home/apt
+94,804631,Cibele B&B - Rome Center Air Room,Emma,I Centro Storico,41895,1249246,Private room,782585,Cibele B&B - Rome Center Water Room,Emma,I Centro Storico,4189573,1249254,Private room
+94,809637,TRASTEVERE 9 apartment,Manuela,XII Monte Verde,4188029,124681,Entire home/apt,2698955,Apartment 9 beds Trastevere,Manuela,XII Monte Verde,4188038,1246597,Entire home/apt
+94,878946,Best place in the heart of Rome historical center,Alessia,I Centro Storico,4189572,1247393,Entire home/apt,3407877,The heart of Rome,Alessia,I Centro Storico,418936,1247867,Entire home/apt
+94,923109,sweethome,Valentina,II Parioli/Nomentano,4191801,1252387,Entire home/apt,16200489,"Sweet home in Rione Monti, centro storico, Roma",Valentina,I Centro Storico,4189602,1248992,Entire home/apt
+94,761967,Double Room,George,I Centro Storico,4189055,1250628,Private room,26591199,Deluxe Double Room 104,Steffy George,II Parioli/Nomentano,4192693,1251595,Private room
+93,1248307,Rome COLOSSEUM - CENTRAL *wifi**,Edo & Melany,I Centro Storico,4189041,1249581,Entire home/apt,576496,ROME CENTRE COLOSSEUM **Wi fi ! ***,Edo & Melany,I Centro Storico,4189073,124953,Entire home/apt
+93,711027,APARTMENT TRASTEVERE NIEVO B2,Manuela,XII Monte Verde,4188073,1246791,Entire home/apt,648816,APARTMENT TRASTEVERE Nievo B8,Manuela,XII Monte Verde,4187984,1246801,Entire home/apt
+93,859809,Apartment at Trastevere Nievo B7,Manuela,XII Monte Verde,4188082,1246768,Entire home/apt,648816,APARTMENT TRASTEVERE Nievo B8,Manuela,XII Monte Verde,4187984,1246801,Entire home/apt
+93,859809,Apartment at Trastevere Nievo B7,Manuela,XII Monte Verde,4188082,1246768,Entire home/apt,711027,APARTMENT TRASTEVERE NIEVO B2,Manuela,XII Monte Verde,4188073,1246791,Entire home/apt
+93,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,797453,TRASTEVERE SPACIOUS 12 bed APARTMENT,Manuela,XII Monte Verde,4188073,1246759,Entire home/apt
+93,958253,Attic with Stunning View + Terrace,Jane,I Centro Storico,4189233,1246856,Entire home/apt,831172,Vatican view + terrace,Jane,XIII Aurelia,4189613,1245358,Entire home/apt
+93,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,976389,studio flat near trastevere station,Manuela,XI Arvalia/Portuense,4186817,1246704,Entire home/apt
+93,711027,APARTMENT TRASTEVERE NIEVO B2,Manuela,XII Monte Verde,4188073,1246791,Entire home/apt,4578711,Apartment at Trastevere Nievo B5,Manuela,XII Monte Verde,4188091,1246736,Entire home/apt
+93,859809,Apartment at Trastevere Nievo B7,Manuela,XII Monte Verde,4188082,1246768,Entire home/apt,4578711,Apartment at Trastevere Nievo B5,Manuela,XII Monte Verde,4188091,1246736,Entire home/apt
+93,790163,APARTMENT IN VATICAN AREA,Maria,I Centro Storico,4190895,1246439,Entire home/apt,5617252,"""VATICAN AREA"" amazing apartment",Maria Teresa,I Centro Storico,4191294,1246101,Entire home/apt
+93,739341,Your cozy holiday home near Vatican,Federica,XIII Aurelia,4189482,1244202,Entire home/apt,5841793,"Your cozy home, next to the Vatican",Federica,I Centro Storico,4190891,1244494,Entire home/apt
+93,928637,Room in the center of rome,Alessandro,XII Monte Verde,4187811,1245896,Private room,8996951,Big room center Rome,Alessandra,XIII Aurelia,4189527,1243988,Private room
+93,1026336,apartment in the center of rome,Alessandro,XII Monte Verde,4187786,1245726,Entire home/apt,11494497,Cozy two rooms apartment in central Rome,Alessandro,I Centro Storico,4191613,1245671,Entire home/apt
+93,1000327,Rome St. Peter,Stefano,XII Monte Verde,4187735,1244815,Entire home/apt,21353599,Luxury & Design Apartment Rome S.Peter,Stefano,XIII Aurelia,4189944,124556,Entire home/apt
+93,945467,Colosseo Cosy Suite 19,Colosseo Cosy,I Centro Storico,4188955,125058,Entire home/apt,16895857,Colosseo Cosy Suite 18,Colosseo Cosy,I Centro Storico,4188875,1250646,Entire home/apt
+93,558950,LA BRICIOLA LOFT IN TRASTEVERE,Carla,I Centro Storico,4188949,12476,Entire home/apt,24681972,Briciola II loft in the heart of Trastevere,Carla,I Centro Storico,4188806,1247635,Entire home/apt
+93,998427,TRASTEVERE HEART OF ROME- WIFI FREE!,Daniela,I Centro Storico,4188985,1246873,Entire home/apt,33539658,In the heart of Trastevere,Daniela,I Centro Storico,4188758,1246998,Entire home/apt
+92,761028,"Triple room-""Opera Inn Suites B&B""",Elisabetta,XIII Aurelia,4189792,1245228,Private room,55404,Double room - Opera Inn Suites B&B,Elisabetta,XIII Aurelia,4189745,124545,Private room
+92,761603,Quadruple room-Opera Inn Suites B&B,Elisabetta,XIII Aurelia,4189758,1245438,Private room,55404,Double room - Opera Inn Suites B&B,Elisabetta,XIII Aurelia,4189745,124545,Private room
+92,675485,GREAT B&B IN A GREAT LOCATION *2,Valentina,I Centro Storico,4189782,1249611,Private room,163126,GREAT B&B IN A GREAT LOCATION *1,Valentina,I Centro Storico,4190007,1249492,Private room
+92,550400,B&B Bio Organic  Roma Turmeric Room,Barbara,XV Cassia/Flaminia,4194253,1244083,Private room,322298,B&B Bio Organic  Roma Ginger Room,Barbara,XV Cassia/Flaminia,4194394,1244066,Private room
+92,871865,Charming flat near Campo de Fiori,Alessandro,I Centro Storico,418992,1246675,Entire home/apt,871676,Charming boat in Campo de' Fiori,Alessandro,I Centro Storico,4189772,124719,Entire home/apt
+92,825299,Pettinarihome 2 Campo dei Fiori,Rita,I Centro Storico,4189553,1247368,Entire home/apt,747656,Pettinarihome Campo de FIORI,Rita,I Centro Storico,4189439,1247296,Entire home/apt
+92,761603,Quadruple room-Opera Inn Suites B&B,Elisabetta,XIII Aurelia,4189758,1245438,Private room,761028,"Triple room-""Opera Inn Suites B&B""",Elisabetta,XIII Aurelia,4189792,1245228,Private room
+92,766424,A casa Boschi b&b Suite Mandarina,Irene,I Centro Storico,419145,1245277,Private room,766376,A casa Boschi b&b Suite Fiordaliso,Irene,I Centro Storico,4191452,1245355,Private room
+92,804601,Cibele B&B - Rome Center Earth Room,Emma,I Centro Storico,4189555,124908,Private room,782585,Cibele B&B - Rome Center Water Room,Emma,I Centro Storico,4189573,1249254,Private room
+92,817513,IL BOOM B&B TRASTEVERE - Room VITTI,Angelo,I Centro Storico,4188466,1246524,Private room,800652,IL BOOM B&B TRASTEVERE Room LOREN,Angelo,I Centro Storico,4188427,1246515,Private room
+92,1269648,Marco e Laura B&B: Triple room,Laura,XIII Aurelia,4189991,1244358,Private room,1269615,Marco e Laura B&B: Double room,Laura,XIII Aurelia,4189869,1244392,Private room
+92,1247612,Central room with private bathroom (Metro A - C),Alessandra,VII San Giovanni/Cinecittà,4188367,1251331,Private room,1242610,Cozy and central with private bathroom,Alessandra,VII San Giovanni/Cinecittà,4188351,1251344,Private room
+92,956558,Holiday rental St.Peter's area (4 beds),Maurizio,XIII Aurelia,4189353,1244399,Entire home/apt,3051474,Holiday rental St.Peter's area (3 beds),Maurizio,XIII Aurelia,4189576,1244526,Entire home/apt
+92,844558,I Mulini a Vento B&B Singole,Daniele,I Centro Storico,4190828,124604,Private room,4858622,I Mulini a Vento B&B Double,Daniele,I Centro Storico,4190983,1245898,Private room
+92,928606,Room in the heart of Rome,Alessandro,XII Monte Verde,4187768,1245929,Private room,8657289,"Room at Fori Imperiali/ Monti, the heart of Rome!",Alessandra,I Centro Storico,4189462,1248708,Private room
+92,956558,Holiday rental St.Peter's area (4 beds),Maurizio,XIII Aurelia,4189353,1244399,Entire home/apt,10547700,Holiday rental St.Peter's area (2 beds),Maurizio,XIII Aurelia,4189573,1244429,Entire home/apt
+92,1000327,Rome St. Peter,Stefano,XII Monte Verde,4187735,1244815,Entire home/apt,11652513,"Costantino Secondo, Roma St. Pietro",Stefano,I Centro Storico,4190973,1245655,Entire home/apt
+92,1026336,apartment in the center of rome,Alessandro,XII Monte Verde,4187786,1245726,Entire home/apt,19209435,Cozy Apartment near the Center of Rome,Alessandra,V Prenestino/Centocelle,4188082,1254142,Entire home/apt
+92,738741,COLOSSEUM  AMORE  Apartment,Stefano,I Centro Storico,4189615,1250694,Entire home/apt,18907494,Apartment Coliseum,Stefano,I Centro Storico,4188911,1249442,Entire home/apt
+92,796926,"COLISEUM ROOMS, Huge room 10min Colosseum",Gianluca,I Centro Storico,4188794,1250821,Private room,16923829,colosseum room,Gianluca,I Centro Storico,4189307,1249249,Private room
+92,808450,IN THE HEART OF ROME,Francesca,I Centro Storico,4189553,1247337,Entire home/apt,21207913,Amazing loft in the heart of Rome whit great view!,Francesca,I Centro Storico,4190542,1248545,Entire home/apt
+92,761967,Double Room,George,I Centro Storico,4189055,1250628,Private room,26591060,Superior Double Room (room 105),Steffy George,II Parioli/Nomentano,4192712,125145,Private room
+92,92585,DAB,Alessandro,I Centro Storico,4190982,1249248,Private room,25768444,Dab Guest House - Vintage Standard Room,Alessandro,I Centro Storico,4190969,1249731,Private room
+92,92585,DAB,Alessandro,I Centro Storico,4190982,1249248,Private room,26834159,Dab Guest House - Pop Superior  Room,Alessandro,I Centro Storico,4190923,1249615,Private room
+92,92585,DAB,Alessandro,I Centro Storico,4190982,1249248,Private room,26834622,Dab Guest House - Industrial Basic Room,Alessandro,I Centro Storico,4190949,1249651,Private room
+92,92585,DAB,Alessandro,I Centro Storico,4190982,1249248,Private room,26835535,DAB Guest House - Floreal Basic Room,Alessandro,I Centro Storico,4191049,1249653,Private room
+92,92585,DAB,Alessandro,I Centro Storico,4190982,1249248,Private room,26806338,Dab Guest House - Baldacchino Standard Room,Alessandro,I Centro Storico,4190926,1249613,Private room
+92,92585,DAB,Alessandro,I Centro Storico,4190982,1249248,Private room,26807026,Dab Guest House - City Standard Room,Alessandro,I Centro Storico,4190968,124973,Private room
+92,1086589,Vatican apartment,Loredana,I Centro Storico,4190513,1244758,Entire home/apt,33468925,COLONNA LUXURY APARTMENT VATICANO,Loredana,I Centro Storico,4191164,124675,Entire home/apt
+92,1108531,TRASTEVERE'S HOME,Francesca,I Centro Storico,418887,1247384,Entire home/apt,33729957,Sweet Home in the Trastevere district,Paolo &  Francesca,I Centro Storico,4189111,1246766,Entire home/apt
+91,920626,Small but nice single room in Rome,Giulia,XIV Monte Mario,4193637,124264,Private room,105153,Small but nice double room in Rome,Giulia,XIV Monte Mario,4194302,1242244,Private room
+91,957703,Casa Cimabue Roma centro camera 3,Petra,II Parioli/Nomentano,4192178,124709,Private room,427944,Casa Cimabue in the center of Rome.,Petra,II Parioli/Nomentano,4192033,1247268,Private room
+91,796926,"COLISEUM ROOMS, Huge room 10min Colosseum",Gianluca,I Centro Storico,4188794,1250821,Private room,392516,"COLISEUM ROOMS, Bright room 10min Colosseum",Gianluca,I Centro Storico,4188812,1250686,Private room
+91,957703,Casa Cimabue Roma centro camera 3,Petra,II Parioli/Nomentano,4192178,124709,Private room,512967,Casa Cimabue in the center of Rome.,Petra,II Parioli/Nomentano,419208,1247081,Private room
+91,760134,Vatican B&B Rome Room Colonnato,Irina,XIII Aurelia,4189856,1245468,Private room,630815,Vatican B&B Rome Room ''Castello'',Irina,XIII Aurelia,4189783,1245355,Private room
+91,760620,Rome Center Charming Vintage House,Giulia & Susanna,VII San Giovanni/Cinecittà,4188723,1251374,Private room,634305,Rome center Charming Vintage House,Giulia & Susanna,I Centro Storico,4188759,1251096,Private room
+91,545918,A charming place in vatican zone-2,Simona,XIII Aurelia,4189761,1245717,Private room,603872,A charming place in vatican zone-1,Simona,XIII Aurelia,418993,1245682,Private room
+91,545918,A charming place in vatican zone-2,Simona,XIII Aurelia,4189761,1245717,Private room,603875,A charming place in vatican zone-3,Simona,XIII Aurelia,4189792,1245596,Private room
+91,933336,B&B Vaticano/San Pietro Camera Tripla,Andrea,XIII Aurelia,4190084,1244566,Private room,874822,B&B Vaticano/San Pietro Camera Matrimoniale,Andrea,XIII Aurelia,4190052,1244447,Private room
+91,981661,"Apartment x 2 ""Opera Inn Suites""",Elisabetta,XIII Aurelia,4189894,1245237,Entire home/apt,763338,"Apartment x 6 "" Opera Inn Suites """,Elisabetta,XIII Aurelia,4189713,1245423,Entire home/apt
+91,981712,"Apartment x 4 - ""Opera Inn Suites""",Elisabetta,XIII Aurelia,4189749,1245287,Entire home/apt,763338,"Apartment x 6 "" Opera Inn Suites """,Elisabetta,XIII Aurelia,4189713,1245423,Entire home/apt
+91,770792,DOMUS CAVOUR B&B FAMILY ROOM,Domus Hotel,I Centro Storico,419086,1246733,Private room,770715,DOMUS CAVOUR B&B SINGLE ROOM,Domus Hotel,I Centro Storico,4190798,1246944,Private room
+91,778013,Room Campo de' fiori -Family life 1,Julia,I Centro Storico,4189449,1247307,Private room,778012,"Room Campo de' fiori, family life 2",Julia,I Centro Storico,4189454,124731,Private room
+91,866666,B&B TUTTIDAMARI Room SOCRATE - Colosseo,Marina,VII San Giovanni/Cinecittà,4188605,1251232,Private room,852799,B&B TUTTIDAMARI Room IAGO -Colosseo,Marina,VII San Giovanni/Cinecittà,4188569,1251241,Private room
+91,981712,"Apartment x 4 - ""Opera Inn Suites""",Elisabetta,XIII Aurelia,4189749,1245287,Entire home/apt,981661,"Apartment x 2 ""Opera Inn Suites""",Elisabetta,XIII Aurelia,4189894,1245237,Entire home/apt
+91,928637,Room in the center of rome,Alessandro,XII Monte Verde,4187811,1245896,Private room,928606,Room in the heart of Rome,Alessandro,XII Monte Verde,4187768,1245929,Private room
+91,1151453,Pope's neighbors v. aurelia 79int 7,I Vicini Del Papa,XIII Aurelia,4189937,1245334,Entire home/apt,1583398,The Popes neighbors Aurelia 79 int4,I Vicini Del Papa,XIII Aurelia,4189967,1245457,Entire home/apt
+91,1026336,apartment in the center of rome,Alessandro,XII Monte Verde,4187786,1245726,Entire home/apt,2195366,Family apartment in central Rome,Alessandra,I Centro Storico,4190086,1247461,Entire home/apt
+91,831354,Fruit Rooms your sweet home in Rome,Kalim,I Centro Storico,4190606,1249975,Private room,2799528,"Kiwi Room, your sweet home in Rome",Kalim,I Centro Storico,4190522,1250056,Private room
+91,1230460,Roma Trastevere apt. sleeps 4 pax,Francesco,I Centro Storico,4189205,124701,Entire home/apt,3111862,Roma Trastevere apt sleeps 4 ROVERE,Francesco,I Centro Storico,4189842,1246179,Entire home/apt
+91,924507,149 GUESTHOUSE B&B Room B,Enrico E Paola,I Centro Storico,4188111,1247674,Private room,7550075,149 GUESTHOUSE B&B Room A,Enrico E Paola,I Centro Storico,4188095,1247594,Private room
+91,750579,"""Rome centre"" chic flat/Pantanella",Giuseppe,I Centro Storico,4189033,125161,Entire home/apt,5899664,Apartment in the center of Rome,Giuseppe,XII Monte Verde,4187185,1245878,Entire home/apt
+91,831224,Loft in Rome,Andrea,VI Roma delle Torri,4187328,1259528,Entire home/apt,5059021,Mini-Loft with view!Trastevere Roma,Andrea,XII Monte Verde,4187396,1246368,Entire home/apt
+91,877647,CHEAP & CHIC BLUE STUDIO @COLISEUM with Balcony!,Super Host,I Centro Storico,4188945,1250318,Entire home/apt,5612157,CHEAP & CHIC ORANGE STUDIO @COLISEUM with Balcony!,Super Host,I Centro Storico,418899,1250286,Entire home/apt
+91,1086809,Your home in Rome,Michela,XIV Monte Mario,4191887,1242486,Entire home/apt,6321404,Your home in the heart of Rome,Michele,I Centro Storico,4189632,124732,Entire home/apt
+91,896479,Affitto stanza singola,Annalisa,I Centro Storico,419123,1244991,Private room,9308818,STANZA IN AFFITTO,Anna,IV Tiburtina,4191094,125394,Private room
+91,808450,IN THE HEART OF ROME,Francesca,I Centro Storico,4189553,1247337,Entire home/apt,14863358,"Amazing terrace Vatican view,in the heart of Rome","Simone, Francesca&Alessia",XIII Aurelia,4190011,1244896,Entire home/apt
+91,740478,"""COLOSSEUM NEWYORK""  , Apartment 7p",Stefano,I Centro Storico,4189133,1251323,Entire home/apt,18907494,Apartment Coliseum,Stefano,I Centro Storico,4188911,1249442,Entire home/apt
+91,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,17084099,Nice Apartment in Trastevere,Manuele,I Centro Storico,4189118,1246752,Entire home/apt
+91,92585,DAB,Alessandro,I Centro Storico,4190982,1249248,Private room,26836196,Dab Guest House - Stanza Rossa Superior Room,Alessandro,I Centro Storico,4191065,1249603,Private room
+91,1187009,"Domus Appia Antica, 2 bedrooms and terrace",Enrico,VII San Giovanni/Cinecittà,4183481,1259606,Entire home/apt,23960452,"Domus Appia Antica, 4 bedrooms and terrace",Enrico,VII San Giovanni/Cinecittà,4183253,1259707,Entire home/apt
+91,616243,central apartament Rome near subway,Francesca,VII San Giovanni/Cinecittà,4187388,1251784,Entire home/apt,27637916,Apartment in the center of Rome,Francesco,VII San Giovanni/Cinecittà,4188384,1251197,Entire home/apt
+91,1000327,Rome St. Peter,Stefano,XII Monte Verde,4187735,1244815,Entire home/apt,22609324,"Costantino Terzo Residence, Roma St.Pietro",Stefano,I Centro Storico,4191215,1245669,Entire home/apt
+90,832679,LT Rooms - triple/private bathroom,Gaetano,XIII Aurelia,4189947,1243647,Private room,270065,LT Rooms - double/private bathroom,Gaetano,XIII Aurelia,4190101,1243795,Private room
+90,834741,LT Rooms-quadruple/private bathroom,Gaetano,XIII Aurelia,4190086,1243748,Private room,270065,LT Rooms - double/private bathroom,Gaetano,XIII Aurelia,4190101,1243795,Private room
+90,711057,Gelsomina room in S.Pietro Double,Mattia,I Centro Storico,419063,1245823,Private room,339919,Gelsomina room in S.Pietro triple,Mattia,I Centro Storico,4190782,1245757,Private room
+90,783309,"The ""ingegno"" room & organic breakfast @mammarampa",Claudia & Livia,XIII Aurelia,4189624,1245133,Private room,757216,"""Comodona"" room & organic breakfast @mammarampa",Claudia & Livia,XIII Aurelia,4189637,1245103,Private room
+90,817475,IL BOOM B&B TRASTEVERE - MAGNANI,Angelo,I Centro Storico,4188531,1246677,Private room,800652,IL BOOM B&B TRASTEVERE Room LOREN,Angelo,I Centro Storico,4188427,1246515,Private room
+90,1045646,MONTI ACCOMODATION&STUDIO 4 CANTONI,Orizio & Silvia,I Centro Storico,4189662,1249645,Entire home/apt,812342,MONTI ACCOMODATION & LOFT 4 CANTONI,Orizio & Silvia,I Centro Storico,4189675,1249668,Entire home/apt
+90,817513,IL BOOM B&B TRASTEVERE - Room VITTI,Angelo,I Centro Storico,4188466,1246524,Private room,817475,IL BOOM B&B TRASTEVERE - MAGNANI,Angelo,I Centro Storico,4188531,1246677,Private room
+90,834741,LT Rooms-quadruple/private bathroom,Gaetano,XIII Aurelia,4190086,1243748,Private room,832679,LT Rooms - triple/private bathroom,Gaetano,XIII Aurelia,4189947,1243647,Private room
+90,838414,Graziosa camera vicino al Centro!,Paolo,XIII Aurelia,4189704,124309,Private room,838400,Graziosa camera vicino al Vaticano!,Paolo,XIII Aurelia,4189786,1243511,Private room
+90,855912,Fori Up 4 pax in the heart of Roma,Luca,I Centro Storico,418921,1248527,Entire home/apt,852680,Fori Suite 4 pax the heart of Rome,Luca,I Centro Storico,41892,1248368,Entire home/apt
+90,1084807,"St. Peter-Big, quiet & comfortable",Nicola,I Centro Storico,4190857,1245875,Entire home/apt,971672,St. Peter - Big and quiet apartment,Nicola,I Centro Storico,4191011,1246043,Entire home/apt
+90,1170571,Very Nice Room in Magic Trastevere,Maurilio,I Centro Storico,4188885,124702,Private room,998048,Large and nice room in magic Trastevere,Maurilio,I Centro Storico,4188813,1247064,Private room
+90,1195955,Dalmati House 4 apartment in Rome,Giovanni,II Parioli/Nomentano,4189846,1251537,Entire home/apt,1020482,Dalmati House 7 apartment in Rome,Giovanni,II Parioli/Nomentano,4190002,1251622,Entire home/apt
+90,1196652,Dalmati House 2 apartment in Rome,Giovanni,II Parioli/Nomentano,4189882,1251541,Entire home/apt,1020482,Dalmati House 7 apartment in Rome,Giovanni,II Parioli/Nomentano,4190002,1251622,Entire home/apt
+90,1196684,Dalmati House 1 apartment in Rome,Giovanni,II Parioli/Nomentano,4189924,12516,Entire home/apt,1020482,Dalmati House 7 apartment in Rome,Giovanni,II Parioli/Nomentano,4190002,1251622,Entire home/apt
+90,1020482,Dalmati House 7 apartment in Rome,Giovanni,II Parioli/Nomentano,4190002,1251622,Entire home/apt,999135,Dalmati House 6 apartment in Rome,Giovanni,II Parioli/Nomentano,4189836,1251492,Entire home/apt
+90,1195955,Dalmati House 4 apartment in Rome,Giovanni,II Parioli/Nomentano,4189846,1251537,Entire home/apt,999135,Dalmati House 6 apartment in Rome,Giovanni,II Parioli/Nomentano,4189836,1251492,Entire home/apt
+90,1196652,Dalmati House 2 apartment in Rome,Giovanni,II Parioli/Nomentano,4189882,1251541,Entire home/apt,999135,Dalmati House 6 apartment in Rome,Giovanni,II Parioli/Nomentano,4189836,1251492,Entire home/apt
+90,1196684,Dalmati House 1 apartment in Rome,Giovanni,II Parioli/Nomentano,4189924,12516,Entire home/apt,999135,Dalmati House 6 apartment in Rome,Giovanni,II Parioli/Nomentano,4189836,1251492,Entire home/apt
+90,928637,Room in the center of rome,Alessandro,XII Monte Verde,4187811,1245896,Private room,928448,Cozy room in the hearth of rome,Alessandro,XII Monte Verde,4187696,1245871,Private room
+90,933336,B&B Vaticano/San Pietro Camera Tripla,Andrea,XIII Aurelia,4190084,1244566,Private room,933324,B&B Vaticano/San Pietro Camera doppia/Matrimoniale,Andrea,XIII Aurelia,4189787,1245507,Private room
+90,939159,Coliseum Roo (Website hidden by Airbnb) Mazzini,Roberto,I Centro Storico,4191504,1246244,Private room,936664,St. Peter's Roo (Website hidden by Airbnb) Mazzini,Roberto,I Centro Storico,4191556,1246087,Private room
+90,1196652,Dalmati House 2 apartment in Rome,Giovanni,II Parioli/Nomentano,4189882,1251541,Entire home/apt,1195955,Dalmati House 4 apartment in Rome,Giovanni,II Parioli/Nomentano,4189846,1251537,Entire home/apt
+90,1196684,Dalmati House 1 apartment in Rome,Giovanni,II Parioli/Nomentano,4189924,12516,Entire home/apt,1195955,Dalmati House 4 apartment in Rome,Giovanni,II Parioli/Nomentano,4189846,1251537,Entire home/apt
+90,1196684,Dalmati House 1 apartment in Rome,Giovanni,II Parioli/Nomentano,4189924,12516,Entire home/apt,1196652,Dalmati House 2 apartment in Rome,Giovanni,II Parioli/Nomentano,4189882,1251541,Entire home/apt
+90,1211926,Manara 1 independent flat in Trastevere,Emanuela,I Centro Storico,418886,1247026,Entire home/apt,1381094,Manara 3 independent flat in Trastevere,Emanuela,I Centro Storico,4188899,1247009,Entire home/apt
+90,714214,"ROME. CAMPO DE FIORI, BLUE APARTMENT.",Luca,I Centro Storico,418952,1247044,Entire home/apt,1774992,"ROME, CAMPO DE FIORI, RED APARTMENT.",Luca,I Centro Storico,418953,1247142,Entire home/apt
+90,770199,COLOSSEUM LOVELY STUDIO 5 MIN WALK,Sasa,I Centro Storico,41895,1249412,Entire home/apt,1890360,COLOSSEUM II LOVELY ONLY 5 MIN WALK,Sasa,I Centro Storico,4189489,1249226,Entire home/apt
+90,1095700,PANTHEON- SPANISH STEPS APARTMENT 2,My Magic,I Centro Storico,4190659,1247943,Entire home/apt,2183219,PANTHEON- SPANISH STEPS APARTMENT 3,My Magic,I Centro Storico,4190646,1248007,Entire home/apt
+90,1248421,Colosseo - Independent Apartment with Living Room,Maria Alberta,I Centro Storico,4188687,1249831,Entire home/apt,3116695,Colosseo - Luxury Apartment with Living Room,Maria Alberta,I Centro Storico,4188728,1249644,Entire home/apt
+90,924507,149 GUESTHOUSE B&B Room B,Enrico E Paola,I Centro Storico,4188111,1247674,Private room,7550381,149 GUESTHOUSE B&B Room C with JACUZZI,Enrico E Paola,I Centro Storico,4188037,1247665,Private room
+90,937104,"Villa in private rooms Rome, Zimmer, Guest House",Fabrizio,XIII Aurelia,4190665,1231518,Private room,5301351,"Villa, Rome, private rooms, ( ROSA )",Fabrizio,XIII Aurelia,4190521,1231549,Private room
+90,1286735,Dormitory mixed  (M and F)3,Romangelo,I Centro Storico,4189989,1250231,Shared room,6286270,Dormitory mixed  (M and F)4,Romangelo,I Centro Storico,419002,1250312,Shared room
+90,1026336,apartment in the center of rome,Alessandro,XII Monte Verde,4187786,1245726,Entire home/apt,6037607,Flat for families in central Rome,Alessandra,I Centro Storico,4190172,1247542,Entire home/apt
+90,1272337,"Central Rome, House on the Janiculum Hill",Sabrina  & Roberto,XII Monte Verde,4187569,1246121,Entire home/apt,7695261,Center  of Rome,Roberto,I Centro Storico,4188623,124709,Entire home/apt
+90,809863,Vacanze Romane 2 Roman Holidays,Freddy,XII Monte Verde,4187494,124457,Entire home/apt,6950842,Vacanze romane,Luigi Ferdinando,II Parioli/Nomentano,4192949,1252124,Entire home/apt
+90,849111,L'INCANTO DI ROMA APARTMENT!,Laura,I Centro Storico,4190932,1249817,Entire home/apt,11603637,L' INCANTO DI SAN PIETRO APARTMENT,Laura,I Centro Storico,4190759,1245612,Entire home/apt
+90,1248421,Colosseo - Independent Apartment with Living Room,Maria Alberta,I Centro Storico,4188687,1249831,Entire home/apt,21417966,Colosseo - Luxury Apartment with Living Room,Maria Alberta,I Centro Storico,4188848,1249816,Entire home/apt
+90,786653,COLISEUM ROOMS B&B - Cozy Trevi,Gianluca,I Centro Storico,4188925,1250827,Private room,16923829,colosseum room,Gianluca,I Centro Storico,4189307,1249249,Private room
+90,786796,COLISEUM ROOMS B&B - Large Navona,Gianluca,I Centro Storico,4188833,1250853,Private room,16923829,colosseum room,Gianluca,I Centro Storico,4189307,1249249,Private room
+90,790163,APARTMENT IN VATICAN AREA,Maria,I Centro Storico,4190895,1246439,Entire home/apt,19991945,Appartamento zona Vaticano/Apartment Vatican area,Miriam,I Centro Storico,4190795,1245525,Entire home/apt
+90,1211926,Manara 1 independent flat in Trastevere,Emanuela,I Centro Storico,418886,1247026,Entire home/apt,16609236,Manara 4 independent flat in Trastevere,Emanuela,I Centro Storico,4188764,1246967,Entire home/apt
+90,928448,Cozy room in the hearth of rome,Alessandro,XII Monte Verde,4187696,1245871,Private room,23008785,Cosy room in Rome,Alessandra,XI Arvalia/Portuense,4185669,1245588,Private room
+90,1026336,apartment in the center of rome,Alessandro,XII Monte Verde,4187786,1245726,Entire home/apt,23072532,Lovely apartment in the heart of Rome,Alessandro,I Centro Storico,4191031,1245796,Entire home/apt
+90,1204975,Deluxe Rooms classic or modern double,Giovanni,I Centro Storico,4190807,1245889,Private room,29982547,Deluxe Rooms classic or modern quadruple,Giovanni,I Centro Storico,419065,1246004,Private room
+90,761967,Double Room,George,I Centro Storico,4189055,1250628,Private room,29115121,Cozy Double Room near Metro Battistini,Giorgio,XIV Monte Mario,4190743,124114,Private room
+90,1026336,apartment in the center of rome,Alessandro,XII Monte Verde,4187786,1245726,Entire home/apt,35323729,NEW Cozy one-bedroom flat central Rome,Alessandro,I Centro Storico,4190616,1249858,Entire home/apt
+89,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,794830,Appartamento Trastevere 6 posti letto,Manuela,XII Monte Verde,4187888,124656,Entire home/apt
+89,1151453,Pope's neighbors v. aurelia 79int 7,I Vicini Del Papa,XIII Aurelia,4189937,1245334,Entire home/apt,798038,"Neighbors of Pope Via Aurelia, 79 int3",I Vicini Del Papa,XIII Aurelia,4189984,1245429,Entire home/apt
+89,773978,*GORGEOUS* 220mq in the HEART of ROME - 6 BEDROOMS,Annalisa,XII Monte Verde,4188186,1246762,Entire home/apt,3778550,HEART OF ROME,Ann,I Centro Storico,4189454,1247214,Entire home/apt
+89,771662,In the historic center with garden,King Edward,I Centro Storico,4188954,1248154,Entire home/apt,3816910,Charme in the historic center,King Edward,I Centro Storico,419005,1246711,Entire home/apt
+89,794830,Appartamento Trastevere 6 posti letto,Manuela,XII Monte Verde,4187888,124656,Entire home/apt,4610124,Apartment Trastevere,Manuela,XII Monte Verde,418806,1246775,Entire home/apt
+89,844558,I Mulini a Vento B&B Singole,Daniele,I Centro Storico,4190828,124604,Private room,4861251,I Mulini a Vento B&B Triple/Quad Room,Daniele,I Centro Storico,4190926,1245998,Private room
+89,839925,Roma *Casa Circe*  VILLA NEL VERDE,Luciana,VII San Giovanni/Cinecittà,4184358,1255819,Entire home/apt,8539386,Roma***Casina Circe***,Luciana,VII San Giovanni/Cinecittà,4184181,1255658,Entire home/apt
+89,1026336,apartment in the center of rome,Alessandro,XII Monte Verde,4187786,1245726,Entire home/apt,15948132,Fine apartment central rome porto fluviale area,Alex,XI Arvalia/Portuense,4187076,1246951,Entire home/apt
+89,1086589,Vatican apartment,Loredana,I Centro Storico,4190513,1244758,Entire home/apt,15318064,Vatican Doria Apartment,Giovanni Luca Loredana Alessandra,I Centro Storico,4191143,1245535,Entire home/apt
+89,924234,lovely flat in the centre of Rome,Angela,I Centro Storico,4189536,1247099,Entire home/apt,15659818,lovely property,Angelo,III Monte Sacro,4195763,125259,Entire home/apt
+89,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,21603801,Nice Apartment in Trastevere 2,Manuele,I Centro Storico,4188998,1246793,Entire home/apt
+89,1242756,"Casa Regola,     Campo de Fiori",Carlo,I Centro Storico,4189501,1247205,Entire home/apt,21396370,Casa,Monica E Carlo,I Centro Storico,4190538,1244627,Entire home/apt
+89,560450,Rome - Bed & Breakfast Fonteiana66,Alessandra,XII Monte Verde,418816,1245552,Private room,20204076,RoOMe,Alessandra,I Centro Storico,4190242,1250583,Private room
+89,1026336,apartment in the center of rome,Alessandro,XII Monte Verde,4187786,1245726,Entire home/apt,23811780,Triple Single - 2BR Luxury Apartment Central Rome,Alex,I Centro Storico,41897,1249185,Entire home/apt
+89,946986,Apartment Trastevere,Manuela,XII Monte Verde,4187894,1246725,Entire home/apt,30153601,Nice apartment in Trastevere Scala,Manuele,I Centro Storico,4189049,1246825,Entire home/apt
+89,1192479,Suite In Rome,Anna Maria,X Ostia/Acilia,4174715,1237933,Entire home/apt,31800322,S. Peter's Square Rome,Marina,I Centro Storico,4190795,1245598,Entire home/apt
+89,1026336,apartment in the center of rome,Alessandro,XII Monte Verde,4187786,1245726,Entire home/apt,29963844,ROME RIONE CENTER APARTMENT,Bianca & Alex,I Centro Storico,4189573,1249465,Entire home/apt
+89,928448,Cozy room in the hearth of rome,Alessandro,XII Monte Verde,4187696,1245871,Private room,31890810,Cozy Room,Maya Alexandra,VII San Giovanni/Cinecittà,4187314,1252229,Private room
