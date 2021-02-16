@@ -9,11 +9,12 @@ The blocking workflows labels the listing pairs by performing attribute matching
 
 ### ETL pipeline for complete listings (blocking workflow)
 It represents the blocking workflow to label the data by doing attribute equivalence.
-It extracts the data from AirBnB website, then, it creates pair listings ready to be processed by the deep learning model offered by deepmatcher.
+It extracts the data from AirBnB website, then, it creates pair listings ready to be processed by the deep learning model offered by deepmatcher
+and DeepER.
 
 ### ETL pipeline for summary listings (blocking workflow)
 It represents the blocking workflow to label the data for summary listings.
 It extracts the data from AirBnB website, then, it creates pair listings by labeling them.
 
 ## How to use it
-Use the functions in the `main.py` file, to run the entire or partial pipeline.
+Use the functions in the `main.py` file to run the entire or partial pipeline. It also contains methods to extract the listing urls.
