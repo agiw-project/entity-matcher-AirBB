@@ -35,4 +35,5 @@ def run_etl_Amsterdam_without_extraction():
     etl.run()
 
 if __name__ == "__main__":
-    run_etl_Amsterdam_without_extraction()
+    etl = ETLPipelineSummary("Dataset_summary\ROM\\","")
+    etl.run_last_step()

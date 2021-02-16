@@ -61,9 +61,10 @@ class ETLPipelineSummary:
         new_df1 = self.compute_false_dataset_with_same_room_type_and_price_and_minimum_nights_and_latitude(df, ground_truth)
         new_df2 = self.compute_false_dataset_with_same_last_review_and_calculated_host_listings_count_and_longitude(df, ground_truth)
         new_df3 = self.compute_false_dataset_with_same_minimum_nights_and_availability_365_and_longitude(df, ground_truth)
+        new_df4 = self.compute_false_dataset_with_same_room_type_and_minimum_nights_and_longitude(df, ground_truth)
 
         # we merge the dfs into one
-        frames = [ground_truth, new_df1, new_df2, new_df3]
+        frames = [ground_truth, new_df1, new_df2, new_df3, new_df4]
         result = pd.concat(frames)
         self.rename_columns(result)
         result["id"] = result.index + 1
@@ -199,7 +200,44 @@ class ETLPipelineSummary:
 
         return new_df
 
-    def compute_false_dataset_with_same_last_review_and_calculated_host_listings_count_and_longitudecompute_false_dataset_with_same_last_review_and_calculated_host_listings_count_and_longitude(self, df, ground_truth):
+    def compute_false_dataset_with_same_room_type_and_minimum_nights_and_longitude(self, df, ground_truth):
+        column_names = self.get_columns_ordered(df.columns)
+
+        new_df = pd.merge(df, df,
+                          left_on=['room_type', 'minimum_nights', 'longitude'],
+                          right_on=['room_type', 'minimum_nights', 'longitude'],
+                          suffixes=('_left', '_right'))
+
+        # Selection
+        new_df = new_df[new_df["id_left"] != new_df["id_right"]]
+
+        # Column renaming
+        app = new_df['room_type'].copy()
+        new_df.rename(columns={'room_type': 'room_type_left'}, inplace=True)
+        new_df.insert(18, "room_type_right", app, True)
+
+        app = new_df['minimum_nights'].copy()
+        new_df.rename(columns={'minimum_nights': 'minimum_nights_left'}, inplace=True)
+        new_df.insert(18, "minimum_nights_right", app, True)
+
+        app = new_df['longitude'].copy()
+        new_df.rename(columns={'longitude': 'longitude_left'}, inplace=True)
+        new_df.insert(18, "longitude_right", app, True)
+
+        #selection on the ones that do not belong to the ground truth
+        new_df = new_df[(new_df["host_id_left"] != new_df["host_id_right"])
+                        | (new_df["latitude_left"] != new_df["latitude_right"])
+                        | (new_df["longitude_left"] != new_df["longitude_right"])]
+
+        # inserting the label column
+        new_df.insert(1, "label", 0, True)
+
+        # Projection
+        new_df = new_df[column_names]
+
+        return new_df
+
+    def compute_false_dataset_with_same_last_review_and_calculated_host_listings_count_and_longitude(self, df, ground_truth):
         column_names = self.get_columns_ordered(df.columns)
 
         #Join
