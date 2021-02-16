@@ -57,9 +57,9 @@ class ETLPipeline:
     """
     def transform(self, df: pd.DataFrame) -> pd.DataFrame:
         ground_truth = self.load_ground_truth()
-        new_df1 = self.compute_false_dataset_with_same_room_type_and_price_and_minimum_nights(df, ground_truth)
-        new_df2 = self.compute_false_dataset_with_same_last_review_and_calculated_host_listings_count_and_longitude(df, ground_truth)
-        new_df3 = self.compute_false_dataset_with_same_minimum_nights_and_availability_365_and_longitude(df, ground_truth)
+        new_df1 = self.compute_false_dataset_with_same_room_type_and_price_and_minimum_nights(df)
+        new_df2 = self.compute_false_dataset_with_same_last_review_and_calculated_host_listings_count_and_longitude(df)
+        new_df3 = self.compute_false_dataset_with_same_minimum_nights_and_availability_365_and_longitude(df)
 
         # we merge the dfs into one
         frames = [ground_truth, new_df1, new_df2, new_df3]
