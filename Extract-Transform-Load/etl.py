@@ -169,7 +169,7 @@ class ETLPipeline:
         gt.to_csv(self.path + "groundtruth.csv", index=False, header=True)
 
 
-    def compute_false_dataset_with_same_room_type_and_price_and_minimum_nights(self, df, ground_truth):
+    def compute_false_dataset_with_same_room_type_and_price_and_minimum_nights(self, df):
         column_names = self.get_columns_ordered(df.columns)
 
         new_df = pd.merge(df, df,
@@ -212,7 +212,7 @@ class ETLPipeline:
 
         return new_df
 
-    def compute_false_dataset_with_same_last_review_and_calculated_host_listings_count_and_longitude(self, df, ground_truth):
+    def compute_false_dataset_with_same_last_review_and_calculated_host_listings_count_and_longitude(self, df):
         column_names = self.get_columns_ordered(df.columns)
 
         #Join
@@ -254,7 +254,7 @@ class ETLPipeline:
 
         return new_df
 
-    def compute_false_dataset_with_same_minimum_nights_and_availability_365_and_longitude(self, df, ground_truth):
+    def compute_false_dataset_with_same_minimum_nights_and_availability_365_and_longitude(self, df):
         column_names = self.get_columns_ordered(df.columns)
 
         new_df = pd.merge(df, df,
