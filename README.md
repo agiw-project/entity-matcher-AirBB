@@ -17,4 +17,4 @@ It represents the blocking workflow to label the data for summary listings.
 It extracts the data from AirBnB website, then, it creates pair listings by labeling them.
 
 ## How to use it
-Use the functions in the `main.py` file to run the entire or partial pipeline. It also contains methods to extract the listing urls.
+Use the functions in the `main.py` file to run  the pipeline entirely or partially (without extraction).
